@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="splash_fragment_action" type="id" />
+    <item name="home_fragment_action" type="id" />
+
+</resources>
