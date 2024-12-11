@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/splashFragment"
-        android:name="com.adnan.kotlincoin.screens.fragments.SplashFragment"
+        android:name="com.adnan.kotlinkoin.screens.fragments.SplashFragment"
         android:label="Splash Fragment"
         tools:layout="@layout/fragment_splash">
 
@@ -16,7 +16,7 @@
 
     <fragment
         android:id="@+id/homeFragment"
-        android:name="com.adnan.kotlincoin.screens.fragments.HomeFragment"
+        android:name="com.adnan.kotlinkoin.screens.fragments.HomeFragment"
         android:label="Home Fragment"
         tools:layout="@layout/fragment_home">
 

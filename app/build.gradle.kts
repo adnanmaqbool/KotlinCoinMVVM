@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "com.adnan.kotlincoin"
+    namespace = "com.adnan.kotlinkoin"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.adnan.kotlincoin"
+        applicationId = "com.adnan.kotlinkoin"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
