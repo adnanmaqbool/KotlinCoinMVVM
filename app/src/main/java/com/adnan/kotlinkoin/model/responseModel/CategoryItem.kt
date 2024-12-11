@@ -1,5 +1,6 @@
 package com.adnan.kotlinkoin.model.responseModel
 
+
 data class CategoryItem(
     val CategoryName: String,
     val CountryId: String,
